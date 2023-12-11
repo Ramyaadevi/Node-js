@@ -1,0 +1,16 @@
+.maindivv{
+    background-image: linear-gradient( to right, rgb(249, 214, 245),rgb(240, 159, 173) 80%);
+    width: 100vw;
+    height: 90vh;
+}
+.immg{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.immg1{
+    width: 130px;
+    height: 130px;
+    margin: 20px;
+}
+
